@@ -2,7 +2,7 @@
 
 This is a Design and Analysis of Algorithms course assignment.
 
-We have visualized Two convex hull algorithms namely Kirkpatrick-Seidel and Jarvis march.
+We have implemented and visualized Two convex hull algorithms namely Kirkpatrick-Seidel and Jarvis march.
 
 Documentation of the code is also present in the webpage as well as analysis.
 
